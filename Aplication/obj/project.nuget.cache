@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDRp3MAdytO28PvZXE5SJoNj6C1sVw7De8Yn3LAAu4+43I8kSp2ccTe1ZwMFaA6uughlCSLlXvUNv1SW3zuAVw==",
+  "dgSpecHash": "UBx/+HUIlZVUnz3r+rXYzTtMDY/OqPGYdNhjlv56eJe4aKTxJYg3BfmUVNQFlSVJmSTIEDRnmu2uvN2f25buzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\Aplication\\Aplication.csproj",
+  "projectFilePath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\Aplication\\Aplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alanm\\.nuget\\packages\\firebaseadmin\\1.14.0\\firebaseadmin.1.14.0.nupkg.sha512",
     "C:\\Users\\alanm\\.nuget\\packages\\google.api.gax\\2.7.0\\google.api.gax.2.7.0.nupkg.sha512",

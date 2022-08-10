@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+B5o6jxHAOyP5AnBeUmVY2OXwv44TjLQ0X/VEuCZxKNzMO2K5HH8u62mmVTKm9jwboCzx4nLj6I5foiSYq9hLA==",
+  "dgSpecHash": "64A1w3dvpb5QylG9usYkRCYeQvoEFHk6jtMBeUTcSFOOEhQMkexN4JZqNEBIC+xNbNYa2QeJtGuvwAy2CvaX7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUser\\MicroservicioUser.csproj",
+  "projectFilePath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\MicroservicioUser\\MicroservicioUser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alanm\\.nuget\\packages\\aspnetcore.firebase.authentication\\2.0.1\\aspnetcore.firebase.authentication.2.0.1.nupkg.sha512",
     "C:\\Users\\alanm\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",

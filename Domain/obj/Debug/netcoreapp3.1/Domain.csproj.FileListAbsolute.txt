@@ -49,3 +49,12 @@ C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microse
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

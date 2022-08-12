@@ -107,3 +107,20 @@ C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microse
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.pdb
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Aplication.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

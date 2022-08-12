@@ -11067,24 +11067,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alanm\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ayala\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\MicroservicioUser\\MicroservicioUser.csproj",
+      "projectUniqueName": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\MicroservicioUser\\MicroservicioUser.csproj",
       "projectName": "MicroservicioUser",
-      "projectPath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\MicroservicioUser\\MicroservicioUser.csproj",
-      "packagesPath": "C:\\Users\\alanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\MicroservicioUser\\obj\\",
+      "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\MicroservicioUser\\MicroservicioUser.csproj",
+      "packagesPath": "C:\\Users\\ayala\\.nuget\\packages\\",
+      "outputPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\MicroservicioUser\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\alanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11098,11 +11093,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\Aplication\\Aplication.csproj": {
-              "projectPath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\Aplication\\Aplication.csproj"
+            "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj": {
+              "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj"
             },
-            "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\alanm\\Documents\\PS\\Pagina-web-Proyecto-final-master\\Repositorio Microservicios\\MicroservicioUsuario\\Data\\Data.csproj"
+            "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\Data.csproj": {
+              "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\Data.csproj"
             }
           }
         }
@@ -11190,7 +11185,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

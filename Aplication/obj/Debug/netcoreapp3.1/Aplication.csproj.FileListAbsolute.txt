@@ -59,3 +59,15 @@ C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microse
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\Aplication\obj\Debug\netcoreapp3.1\Aplication.csproj.CopyComplete
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\Aplication\obj\Debug\netcoreapp3.1\Aplication.dll
 C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\Aplication\obj\Debug\netcoreapp3.1\Aplication.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\bin\Debug\netcoreapp3.1\Aplication.deps.json
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\bin\Debug\netcoreapp3.1\Aplication.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\bin\Debug\netcoreapp3.1\Aplication.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\bin\Debug\netcoreapp3.1\Domain.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.csprojAssemblyReference.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.AssemblyInfoInputs.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.AssemblyInfo.cs
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.csproj.CoreCompileInputs.cache
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.csproj.CopyComplete
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.dll
+D:\UNAJ\Proyecto de software\MicroservicioUsuario\Aplication\obj\Debug\netcoreapp3.1\Aplication.pdb

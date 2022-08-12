@@ -31,10 +31,14 @@ namespace Data.QUERYS
             ClienteCarritoDTOs clientecarrito = new ClienteCarritoDTOs();
             HttpClient http = new HttpClient();
             //Inicializo la app de firebase aca 
-            FirebaseApp.Create(new AppOptions()
+            if(FirebaseApp.DefaultInstance == null)
             {
-                Credential = GoogleCredential.FromFile(@"C:\Users\alanm\Documents\PS\Pagina-web-Proyecto-final-master\Repositorio Microservicios\MicroservicioUsuario\MicroservicioUser\Privatekey\usuario-5093e-firebase-adminsdk-43fcf-1bf89503c6.json"),
-            });
+                FirebaseApp.Create(new AppOptions()
+                {
+                    Credential = GoogleCredential.FromFile(@"D:\UNAJ\Proyecto de software\MicroservicioUsuario\MicroservicioUser\Privatekey\usuario-5093e-firebase-adminsdk-43fcf-1bf89503c6.json"),
+                });
+            }
+         
             var result = await FirebaseAuth.DefaultInstance.GetUserAsync(uids);
             var ExisteCliente = (from x in context.user where x.uid == uids select x.Id).FirstOrDefault<int>();
             if (ExisteCliente == 0)

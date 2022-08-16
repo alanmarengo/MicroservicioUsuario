@@ -124,3 +124,21 @@ D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\D
 D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.dll
 D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.pdb
 D:\UNAJ\Proyecto de software\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

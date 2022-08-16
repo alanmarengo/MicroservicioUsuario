@@ -35,7 +35,7 @@ namespace Data.QUERYS
             {
                 FirebaseApp.Create(new AppOptions()
                 {
-                    Credential = GoogleCredential.FromFile(@"D:\UNAJ\Proyecto de software\MicroservicioUsuario\MicroservicioUser\Privatekey\usuario-5093e-firebase-adminsdk-43fcf-1bf89503c6.json"),
+                    Credential = GoogleCredential.FromFile(@"C:\Users\mayala\Desktop\Matias\Unaj\proyecto\TP\MicroservicioUsuario\MicroservicioUser\Privatekey\usuario-5093e-firebase-adminsdk-43fcf-1bf89503c6.json"),
                 });
             }
          

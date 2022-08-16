@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\Data.csproj": {}
+    "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Data\\Data.csproj": {}
   },
   "projects": {
-    "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj": {
+    "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj",
-        "packagesPath": "C:\\Users\\ayala\\.nuget\\packages\\",
-        "outputPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\obj\\",
+        "projectPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Aplication\\Aplication.csproj",
+        "packagesPath": "C:\\Users\\mayala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj"
+              "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj"
               }
             }
           }
@@ -58,21 +63,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\Data.csproj": {
+    "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\ayala\\.nuget\\packages\\",
-        "outputPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Data\\obj\\",
+        "projectPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\mayala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,11 +96,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj": {
-                "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Aplication\\Aplication.csproj"
+              "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Aplication\\Aplication.csproj": {
+                "projectPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Aplication\\Aplication.csproj"
               },
-              "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj"
+              "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj"
               }
             }
           }
@@ -143,21 +153,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj": {
+    "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\ayala\\.nuget\\packages\\",
-        "outputPath": "D:\\UNAJ\\Proyecto de software\\MicroservicioUsuario\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\mayala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayala\\Desktop\\Matias\\Unaj\\proyecto\\TP\\MicroservicioUsuario\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -207,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     }

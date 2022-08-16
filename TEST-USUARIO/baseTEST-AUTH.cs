@@ -13,7 +13,7 @@ namespace TEST_USUARIO
         {
             if (db == null)
             {
-                var opciones = new DbContextOptionsBuilder<Context>().UseSqlServer("Server=DESKTOP-NBSBBH9;Database=DatabaseUsers;Trusted_Connection=true;",
+                var opciones = new DbContextOptionsBuilder<Context>().UseSqlServer("Server=NTB707\\SQLEXPRESS;Database=DatabaseUsers;Uid=sa;Pwd='Emerix01';",
                 options => { }).Options;
                 db = new Context(opciones);
                 return db;
